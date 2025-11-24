@@ -38,7 +38,7 @@ for key, value in sort.items():
     print(f"({key}, {value}) ",end="")
 ```
 ## Sample Output
-<img width="1190" height="110" alt="image" src="https://github.com/user-attachments/assets/ecbcbc9f-98ca-4b66-aed9-919fabe5185d" />
+
 
 ## Result
 Thus the program executed successfully.
