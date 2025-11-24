@@ -37,7 +37,10 @@ print("Keys and Values sorted in alphabetical order by the key")
 for key, value in sort.items():
     print(f"({key}, {value}) ",end="")
 ```
+
+
 ## Sample Output
+<img width="1190" height="110" alt="image" src="https://github.com/user-attachments/assets/8fc1d502-bde4-4397-bccb-b48b5e8b4ed4" />
 
 
 ## Result
